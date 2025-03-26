@@ -1,4 +1,4 @@
-# WEB SCRAPING and Extraction
+# Web Scraping and Extraction
 This is a python script that scrapes job listing from the website Fake JoB Websites. Additionally it extracts key job details. The extracted data is then structured into a Pandas Data Frame and saved as a CSV File.
 I used Python for this project. I also used requests for fetching the webpage data, Beautiful Soup for the webscraping and Pandas to structure and save the data.
 
