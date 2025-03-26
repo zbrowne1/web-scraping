@@ -5,5 +5,5 @@ I used Python, requests for fetching the webapage datta, Beautiful Soup for the 
 ## What is extracted?
 The script extracts the following: Job Titles, Company Name, Location (City), Location(State), Date Posted, Day, Month, Day of the week and Year
 ### Running the scripts
-The python script that was created and executed is called python web_scraping_jobs.py.py. It was downloaded as a python file and uploaded into this Github repository.
-This script printed a Pandas DataFrame containing the job details and a CSV file called realpython_jobs.csv was also generated 
+The python script that was created and executed is called python webscraping.py. It was downloaded as a python file and uploaded into this Github repository.
+This script printed a Pandas DataFrame containing the job details and a CSV file called realpython_jobs.csv was also generated. 
